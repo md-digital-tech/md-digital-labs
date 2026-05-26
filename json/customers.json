@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Nissen",
+    "typ": "Partner",
+    "bereich": "Mobility",
+    "lead_groesse": "XL",
+    "strategischer_wert": "Hoch",
+    "status": "Strategie"
+  },
+  {
+    "id": 2,
+    "name": "VOR",
+    "typ": "Mobilitätsorganisation",
+    "bereich": "IVS",
+    "lead_groesse": "L",
+    "strategischer_wert": "Hoch",
+    "status": "Aktive Zusammenarbeit"
+  }
+]
