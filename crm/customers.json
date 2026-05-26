@@ -1,20 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Nissen",
-    "typ": "Partner",
-    "bereich": "Mobility",
-    "lead_groesse": "XL",
-    "strategischer_wert": "Hoch",
-    "status": "Strategie"
+    "name": "Nissen"
   },
   {
     "id": 2,
-    "name": "VOR",
-    "typ": "Mobilitätsorganisation",
-    "bereich": "IVS",
-    "lead_groesse": "L",
-    "strategischer_wert": "Hoch",
-    "status": "Aktive Zusammenarbeit"
+    "name": "VOR"
+  },
+  {
+    "id": 3,
+    "name": "Stadt Graz"
+  },
+  {
+    "id": 4,
+    "name": "Stadt München Baureferat"
   }
 ]
